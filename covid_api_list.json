@@ -346,6 +346,20 @@
         "actorPage": "/zuzka/covid-my"
     },
     {
+        "title": "Mexico",
+        "description": "Gets the number of infected people and deaths by COVID-19 in Mexico per state",
+        "dataSource": "https://coronavirus.gob.mx/datos/",
+        "latestApi": {
+            "url": "https://api.apify.com/v2/key-value-stores/vpfkeiYLXPIDIea2T/records/LATEST?disableRedirect=true",
+            "frequency": "5 mins"
+        },
+        "historyApi": {
+            "url": "https://api.apify.com/v2/datasets/4efvuMEdxdQPCreW7/items?format=json&clean=1",
+            "frequency": "5 mins"
+        },
+        "actorPage": "/puorc/mexico-covid19"
+    },
+    {
         "title": "Netherlands",
         "description": "Gets the actual number of examined and infected people",
         "dataSource": "https://www.rivm.nl/actuele-informatie-over-coronavirus",
@@ -652,19 +666,5 @@
             "frequency": "5 mins"
         },
         "actorPage": "/dtrungtin/covid-vi"
-    },
-    {
-        "title": "Mexico",
-        "description": "Gets the number of infected people and deaths by COVID-19 in Mexico per state",
-        "dataSource": "https://coronavirus.gob.mx/datos/",
-        "latestApi": {
-            "url": "https://api.apify.com/v2/key-value-stores/vpfkeiYLXPIDIea2T/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
-        },
-        "historyApi": {
-            "url": "https://api.apify.com/v2/datasets/4efvuMEdxdQPCreW7/items?format=json&clean=1",
-            "frequency": "5 mins"
-        },
-        "actorPage": "/puorc/mexico-covid19"
     }
 ]
