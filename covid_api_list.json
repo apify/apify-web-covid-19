@@ -668,20 +668,6 @@
         "actorPage": "/petrpatek/covid-usa-cdc"
     },
     {
-        "title": "USA - Los Angeles",
-        "description": "Gets the actual number of Coronavirus cases and deaths.",
-        "dataSource": "http://publichealth.lacounty.gov/media/Coronavirus",
-        "latestApi": {
-            "url": "https://api.apify.com/v2/datasets/xF9o1iiT0vqTXDy4T/items?format=json&clean=1&limit=1&desc=1",
-            "frequency": "10 mins"
-        },
-        "historyApi": {
-            "url": "https://api.apify.com/v2/datasets/xF9o1iiT0vqTXDy4T/items?format=json&clean=1",
-            "frequency": "10 mins"
-        },
-        "actorPage": "/jakubbalada/coronavirus-la"
-    },
-    {
         "title": "Vietnam",
         "description": "Gets the actual number of Coronavirus cases and deaths.",
         "dataSource": "https://ncov.moh.gov.vn/",
