@@ -224,7 +224,7 @@
         "description": "Gets the actual number of infected, recovered and deceased people also in regions.",
         "dataSource": "https://covid19honduras.org/",
         "latestApi": {
-            "url": "https://api.apify.com/v2/datasets/VDtCgFny8WSfPStct/items?format=json&clean=1",
+            "url": "https://api.apify.com/v2/key-value-stores/b11FFW9RA1B3gIMyg/records/LATEST?disableRedirect=true",
             "frequency": "5 mins"
         },
         "historyApi": {
