@@ -228,7 +228,7 @@
             "frequency": "5 mins"
         },
         "historyApi": {
-            "url": "https://api.apify.com/v2/datasets/Gm6qjTgGqxkEZTkuJ/items?format=json&clean=1",
+            "url": "https://api.apify.com/v2/datasets/VDtCgFny8WSfPStct/items?format=json&clean=1",
             "frequency": "5 mins"
         },
         "actorPage": "/zuzka/covid-hn"
