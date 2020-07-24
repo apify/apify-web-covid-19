@@ -220,6 +220,20 @@
         "actorPage": "/lukass/covid-ger"
     },
     {
+        "title": "Honduras",
+        "description": "Gets the actual number of infected, recovered and deceased people also in regions.",
+        "dataSource": "https://covid19honduras.org/",
+        "latestApi": {
+            "url": "https://api.apify.com/v2/datasets/VDtCgFny8WSfPStct/items?format=json&clean=1",
+            "frequency": "5 mins"
+        },
+        "historyApi": {
+            "url": "https://api.apify.com/v2/datasets/Gm6qjTgGqxkEZTkuJ/items?format=json&clean=1",
+            "frequency": "5 mins"
+        },
+        "actorPage": "/zuzka/covid-hn"
+    },
+    {
         "title": "Hungary",
         "description": "Gets the actual number of infected, recovered, quarantined, tested and deceased people.",
         "dataSource": "https://koronavirus.gov.hu/",
