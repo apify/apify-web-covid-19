@@ -5,7 +5,7 @@
         "dataSource": "https://apify.com/store?search=coronavirus",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/tVaYRsPHLjNdNBu7S/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/petrpatek/covid-19-aggregator"
     },
@@ -15,11 +15,11 @@
         "dataSource": "http://covid19.sante.gov.dz/carte",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/pp4Wo2slUJ78ZnaAi/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/hi0DJXpcyzDwtg2Fm/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/onidivo/covid-dz"
     },
@@ -29,11 +29,11 @@
         "dataSource": "https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/RJtyHLXtCepb4aYxB/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/EFWZ2Q5JAtC6QDSwV/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/petrpatek/covid-austria"
     },
@@ -43,11 +43,11 @@
         "dataSource": "https://koronavirusinfo.az/az/page/statistika/azerbaycanda-cari-veziyyet",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/ThmCW2NVnrLa0tVp5/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/JtJHjnBtnIeKYpFi0/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/lukass/covid-az"
     },
@@ -57,11 +57,11 @@
         "dataSource": "https://www.moh.gov.bh/COVID19",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/c7Bc6QnnwaPLOMv3J/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/eHhCNFErvfnC42mEc/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/tugkan/covid-bh"
     },
@@ -71,11 +71,11 @@
         "dataSource": "https://epistat.wiv-isp.be/covid",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/apVM8aZ8hKZFvnKm7/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/DD9jrAixr0QMvQIE3/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/onidivo/covid-be"
     },
@@ -99,11 +99,11 @@
         "dataSource": "https://coronavirus.bg/bg/",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/np4eYah8M5uQtj0Su/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/OicoAbu38M2cGAcDl/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/zuzka/covid-bg"
     },
@@ -113,11 +113,11 @@
         "dataSource": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/fabbocwKrtxSDf96h/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/ji95MgtBVgGJF7XcP/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/lukass/covid-cad"
     },
@@ -127,11 +127,11 @@
         "dataSource": "https://github.com/BlankerL/DXY-COVID-19-Data/blob/master/json/DXYOverall.json",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/x4iHxk7TVGI7UxFv6/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/LQHrXhGe0EhnCFeei/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/katerinahronik/covid-china"
     },
@@ -141,11 +141,11 @@
         "dataSource": "https://www.koronavirus.hr/en",
         "latestApi": {
             "url": " https://api.apify.com/v2/key-value-stores/ealAQXP81dedhLWay/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/dQxN0GCqxJ1MhgLR4/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/zuzka/covid-hr"
     },
@@ -155,11 +155,11 @@
         "dataSource": "https://onemocneni-aktualne.mzcr.cz/covid-19",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/K373S4uCFR9W1K8ei/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/XQWw0I5IUaUPQdc9k/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/petrpatek/covid-cz"
     },
@@ -169,11 +169,11 @@
         "dataSource": "https://www.ssi.dk/aktuelt/sygdomsudbrud/coronavirus",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/EAlpwScH29Qa5m60g/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/Ugq8cNqnhUSjfJeHr/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/tugkan/covid-dk"
     },
@@ -183,11 +183,11 @@
         "dataSource": "https://www.terviseamet.ee/en/covid19",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/AZUhwS51lBBg26wSG/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/Ix8h3SN2Ngyukf7yM/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/lukass/covid-est"
     },
@@ -197,11 +197,11 @@
         "dataSource": "https://thl.fi/fi/web/infektiotaudit-ja-rokotukset/ajankohtaista/ajankohtaista-koronaviruksesta-covid-19/tilannekatsaus-koronaviruksesta",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/jEFt5tgCTMfjJpLD3/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/BDEAOLx0DzEW91s5L/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/dtrungtin/covid-fi"
     },
@@ -211,11 +211,11 @@
         "dataSource": "https://www.santepubliquefrance.fr/",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/ufVgKLP8ljtn3ufaU/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/QBiS7pd57KVmFfgZM/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/drobnikj/covid-stats-france"
     },
@@ -225,11 +225,11 @@
         "dataSource": "https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/OHrZyNo9BzT6xKMRD/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/dcm4uXhiGIjVdJAzS/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/lukass/covid-ger"
     },
@@ -239,11 +239,11 @@
         "dataSource": "https://covid19honduras.org/",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/b11FFW9RA1B3gIMyg/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/VDtCgFny8WSfPStct/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/zuzka/covid-hn"
     },
@@ -253,11 +253,11 @@
         "dataSource": "https://koronavirus.gov.hu/",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/RGEUeKe60NjU16Edo/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/Gm6qjTgGqxkEZTkuJ/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/tugkan/covid-hu"
     },
@@ -267,11 +267,11 @@
         "dataSource": "https://www.mohfw.gov.in/",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/toDWvRj1JpTXiM8FF/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": " https://api.apify.com/v2/datasets/58a4VXwBBF0HtxuQa/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/zuzka/covid-in"
     },
@@ -281,11 +281,11 @@
         "dataSource": "https://corona.ihio.gov.ir/",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/XV4DWf1ctkSPA8H99/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/PJEXhmQM0hkN8K3BK/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/onidivo/covid-ir"
     },
@@ -295,11 +295,11 @@
         "dataSource": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-json/dpc-covid19-ita-andamento-nazionale.json",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/UFpnR8mukiu0TSrb4/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/CUdKmb25Z3HjkoDiN/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/cyberfly/covid-it"
     },
@@ -309,11 +309,11 @@
         "dataSource": "https://www3.nhk.or.jp/news/special/coronavirus/",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/YbboJrL3cgVfkV1am/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/ugfJOQkPhQ0fvLYzN/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/lukass/covid-jap"
     },
@@ -323,11 +323,11 @@
         "dataSource": "http://sam.lrv.lt/lt/naujienos/koronavirusas",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/xhGDb8VTqjtm1AQL6/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/1XdITM6u7PbhUrlmK/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/dtrungtin/covid-lt"
     },
@@ -337,11 +337,11 @@
         "dataSource": "https://gouvernement.lu/fr/dossiers.gouv_msan+fr+dossiers+2020+corona-virus.html#bloub-0",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/RVkUl1Y7FZn3Y410K/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/oZH6thpQSdIyo3ky2/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/tugkan/covid-lu"
     },
@@ -351,11 +351,11 @@
         "dataSource": "http://www.moh.gov.my/index.php/pages/view/2019-ncov-wuhan",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/6t65lJVfs3d8s6aKc/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/7Fdb90FMDLZir2ROo/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/zuzka/covid-my"
     },
@@ -365,11 +365,11 @@
         "dataSource": "https://coronavirus.gob.mx/datos/",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/vpfkeiYLXPIDIea2T/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/4efvuMEdxdQPCreW7/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/puorc/mexico-covid19"
     },
@@ -379,11 +379,11 @@
         "dataSource": "https://www.rivm.nl/actuele-informatie-over-coronavirus",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/vqnEUe7VtKNMqGqFF/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/jr5ogVGnyfMZJwpnB/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/lukass/covid-nl"
     },
@@ -393,11 +393,11 @@
         "dataSource": "https://covid19.ncdc.gov.ng/",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/Eb694wt67UxjdSGbc/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/ccY329O0ng68poTiX/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/zuzka/covid-ng"
     },
@@ -407,11 +407,11 @@
         "dataSource": "https://www.fhi.no/en/id/infectious-diseases/coronavirus/daily-reports/daily-reports-COVID19/",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/3qlmMu1XN2ZLoVIQt/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/6tpTe4Z2TBePRWYti/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/tugkan/covid-no"
     },
@@ -421,11 +421,11 @@
         "dataSource": "http://covid.gov.pk",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/QhfG8Kj6tVYMgud6R/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/9eUGCilmJ8HDf60mL/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/cyberfly/covid-pk"
     },
@@ -435,11 +435,11 @@
         "dataSource": "http://site.moh.ps",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/SbribCOVf2wgR868y/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/BKpHLQrJPmgXE51tf/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/onidivo/covid-ps"
     },
@@ -449,11 +449,11 @@
         "dataSource": "https://ncovtracker.doh.gov.ph/",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/lFItbkoNDXKeSWBBA/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": " https://api.apify.com/v2/datasets/sFSef5gfYg3soj8mb/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "katerinahronik/covid-philippines"
     },
@@ -463,11 +463,11 @@
         "dataSource": "https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/3Po6TV7wTht4vIEid/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/L3VCmhMeX0KUQeJto/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/vaclavrut/covid-pl"
     },
@@ -477,11 +477,11 @@
         "dataSource": "https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/BXGEYTTUQzYBboEQK/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/f1Qd4cMBzV1E0oRNc/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/onidivo/covid-pt"
     },
@@ -491,11 +491,11 @@
         "dataSource": "https://stirioficiale.ro/informatii",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/KUlj8EGfDGHiB0gU1/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/n1XtXTelVG5dJhDhy/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/vanadragos/covid-19-romania"
     },
@@ -505,11 +505,11 @@
         "dataSource": "https://www.rosminzdrav.ru/ministry/covid19",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/1brJ0NLbQaJKPTWMO/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/5JO5GL1h8Qv1CnG0m/items?format=json",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/krakorj/covid-russia"
     },
@@ -519,11 +519,11 @@
         "dataSource": "https://covid19.moh.gov.sa/",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/40xwYCZ57p5OkyBIJ/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/OeaEEGdhvUSkXRrWU/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/katerinahronik/covid-sa"
     },
@@ -533,11 +533,11 @@
         "dataSource": "https://covid19.rs/homepage-english/",
         "latestApi": {
             "url": " https://api.apify.com/v2/key-value-stores/aHENGKUPUhKlX97aL/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/X00EUFYFa9dsIdD8a/items?format=json",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/krakorj/covid-serbia"
     },
@@ -547,11 +547,11 @@
         "dataSource": "https://www.moh.gov.sg/covid-19",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/yaPbKe9e5Et61bl7W/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/suHgi59tSfu02VsRO/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/tugkan/covid-sg"
     },
@@ -561,11 +561,11 @@
         "dataSource": "https://experience.arcgis.com/experience/3430195d620344c38e81d307c252c14f/",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/GlTLAdXAuOz6bLAIO/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/oUWi8ci7F2R9V5ZFy/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/davidrychly/covid-sk-3"
     },
@@ -575,11 +575,11 @@
         "dataSource": "https://www.gov.si/en/topics/coronavirus-disease-covid-19/",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/603AyvQ8QjyqmnZx6/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/H6HKZRQr8I81bClnb/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/dtrungtin/covid-si"
     },
@@ -589,11 +589,11 @@
         "dataSource": "http://ncov.mohw.go.kr/en",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/TMFbhs7qtXpGpeaeP/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/Lc0Hoa8MgAbscJA4w/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/onidivo/covid-kr"
     },
@@ -603,11 +603,11 @@
         "dataSource": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/lluBbYoQVN65R3BGO/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/hxwow9BB75z8RV3JT/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/zuzka/covid-es"
     },
@@ -617,11 +617,11 @@
         "dataSource": "https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/8mRFdwyukavRNCr42/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/Nq3XwHX262iDwsFJS/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/tugkan/covid-se"
     },
@@ -631,11 +631,11 @@
         "dataSource": "https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/lDegAca820XgvjE0C/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/73pVXuygDYAtIMOhI/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/dtrungtin/covid-ch"
     },
@@ -645,11 +645,11 @@
         "dataSource": "https://covid19.saglik.gov.tr/",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/28ljlt47S5XEd1qIi/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/LYeOfHQwsv7FsfdGV/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/tugkan/covid-tr"
     },
@@ -659,11 +659,11 @@
         "dataSource": "https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/KWLojgM5r1JmMW4b4/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/K1mXdufnpvr53AFk6/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/katerinahronik/covid-uk"
     },
@@ -673,11 +673,11 @@
         "dataSource": "https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/moxA3Q0aZh5LosewB/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/FIbyK6uHUntt2kNy3/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/petrpatek/covid-usa-cdc"
     },
@@ -687,11 +687,11 @@
         "dataSource": "https://ncov.moh.gov.vn/",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/EaCBL1JNntjR3EakU/records/LATEST?disableRedirect=true",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "historyApi": {
             "url": "https://api.apify.com/v2/datasets/RnzK2Aea1RlgBcauw/items?format=json&clean=1",
-            "frequency": "5 mins"
+            "frequency": "an hour"
         },
         "actorPage": "/dtrungtin/covid-vi"
     }
