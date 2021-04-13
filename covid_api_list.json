@@ -124,7 +124,7 @@
     {
         "title": "China",
         "description": "Actor gets the actual number of current confirmed, confirmed, suspected, cured and deceased people by COVID-19 in China.",
-        "dataSource": "https://github.com/BlankerL/DXY-COVID-19-Data/blob/master/json/DXYOverall.json",
+        "dataSource": "https://www.worldometers.info/coronavirus/",
         "latestApi": {
             "url": "https://api.apify.com/v2/key-value-stores/x4iHxk7TVGI7UxFv6/records/LATEST?disableRedirect=true",
             "frequency": "an hour"
