@@ -7,7 +7,7 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/tVaYRsPHLjNdNBu7S/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/petrpatek/covid-19-aggregator'
     },
@@ -18,12 +18,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/pp4Wo2slUJ78ZnaAi/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/hi0DJXpcyzDwtg2Fm/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/onidivo/covid-dz'
     },
@@ -35,12 +35,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/RJtyHLXtCepb4aYxB/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/EFWZ2Q5JAtC6QDSwV/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/petrpatek/covid-austria'
     },
@@ -53,12 +53,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/ThmCW2NVnrLa0tVp5/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/JtJHjnBtnIeKYpFi0/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/lukass/covid-az'
     },
@@ -70,12 +70,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/c7Bc6QnnwaPLOMv3J/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/eHhCNFErvfnC42mEc/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/tugkan/covid-bh'
     },
@@ -86,12 +86,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/apVM8aZ8hKZFvnKm7/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/DD9jrAixr0QMvQIE3/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/onidivo/covid-be'
     },
@@ -119,12 +119,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/np4eYah8M5uQtj0Su/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/OicoAbu38M2cGAcDl/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/zuzka/covid-bg'
     },
@@ -136,12 +136,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/fabbocwKrtxSDf96h/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/ji95MgtBVgGJF7XcP/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/lukass/covid-cad'
     },
@@ -154,12 +154,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/x4iHxk7TVGI7UxFv6/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/LQHrXhGe0EhnCFeei/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/katerinahronik/covid-china'
     },
@@ -171,12 +171,12 @@ const data = [
         latestApi: {
             url:
                 ' https://api.apify.com/v2/key-value-stores/ealAQXP81dedhLWay/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/dQxN0GCqxJ1MhgLR4/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/zuzka/covid-hr'
     },
@@ -187,12 +187,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/K373S4uCFR9W1K8ei/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/XQWw0I5IUaUPQdc9k/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/petrpatek/covid-cz'
     },
@@ -204,12 +204,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/EAlpwScH29Qa5m60g/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/Ugq8cNqnhUSjfJeHr/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/tugkan/covid-dk'
     },
@@ -221,12 +221,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/AZUhwS51lBBg26wSG/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/Ix8h3SN2Ngyukf7yM/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/lukass/covid-est'
     },
@@ -238,12 +238,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/jEFt5tgCTMfjJpLD3/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/BDEAOLx0DzEW91s5L/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/dtrungtin/covid-fi'
     },
@@ -254,12 +254,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/ufVgKLP8ljtn3ufaU/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/QBiS7pd57KVmFfgZM/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/drobnikj/covid-stats-france'
     },
@@ -272,12 +272,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/OHrZyNo9BzT6xKMRD/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/dcm4uXhiGIjVdJAzS/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/lukass/covid-ger'
     },
@@ -289,12 +289,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/b11FFW9RA1B3gIMyg/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/VDtCgFny8WSfPStct/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/zuzka/covid-hn'
     },
@@ -306,12 +306,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/RGEUeKe60NjU16Edo/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/Gm6qjTgGqxkEZTkuJ/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/tugkan/covid-hu'
     },
@@ -322,12 +322,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/toDWvRj1JpTXiM8FF/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 ' https://api.apify.com/v2/datasets/58a4VXwBBF0HtxuQa/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/zuzka/covid-in'
     },
@@ -338,12 +338,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/XV4DWf1ctkSPA8H99/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/PJEXhmQM0hkN8K3BK/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/onidivo/covid-ir'
     },
@@ -355,12 +355,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/UFpnR8mukiu0TSrb4/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/CUdKmb25Z3HjkoDiN/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/cyberfly/covid-it'
     },
@@ -371,12 +371,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/YbboJrL3cgVfkV1am/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/ugfJOQkPhQ0fvLYzN/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/lukass/covid-jap'
     },
@@ -388,12 +388,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/C10heVVVE8yBd1YvF/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/ruoBcTzhMpN6SaeS2/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/katerinahronik/covid-kosovo'
     },
@@ -404,12 +404,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/xhGDb8VTqjtm1AQL6/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/1XdITM6u7PbhUrlmK/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/dtrungtin/covid-lt'
     },
@@ -421,12 +421,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/RVkUl1Y7FZn3Y410K/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/oZH6thpQSdIyo3ky2/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/tugkan/covid-lu'
     },
@@ -438,12 +438,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/6t65lJVfs3d8s6aKc/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/7Fdb90FMDLZir2ROo/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/zuzka/covid-my'
     },
@@ -455,12 +455,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/vpfkeiYLXPIDIea2T/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/4efvuMEdxdQPCreW7/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/puorc/mexico-covid19'
     },
@@ -471,12 +471,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/vqnEUe7VtKNMqGqFF/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/jr5ogVGnyfMZJwpnB/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/lukass/covid-nl'
     },
@@ -488,12 +488,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/Eb694wt67UxjdSGbc/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/ccY329O0ng68poTiX/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/zuzka/covid-ng'
     },
@@ -505,12 +505,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/3qlmMu1XN2ZLoVIQt/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/6tpTe4Z2TBePRWYti/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/tugkan/covid-no'
     },
@@ -521,12 +521,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/QhfG8Kj6tVYMgud6R/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/9eUGCilmJ8HDf60mL/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/cyberfly/covid-pk'
     },
@@ -537,12 +537,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/SbribCOVf2wgR868y/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/BKpHLQrJPmgXE51tf/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/onidivo/covid-ps'
     },
@@ -553,12 +553,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/lFItbkoNDXKeSWBBA/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 ' https://api.apify.com/v2/datasets/sFSef5gfYg3soj8mb/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: 'katerinahronik/covid-philippines'
     },
@@ -570,12 +570,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/3Po6TV7wTht4vIEid/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/L3VCmhMeX0KUQeJto/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/vaclavrut/covid-pl'
     },
@@ -587,12 +587,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/BXGEYTTUQzYBboEQK/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/f1Qd4cMBzV1E0oRNc/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/onidivo/covid-pt'
     },
@@ -604,12 +604,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/KUlj8EGfDGHiB0gU1/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/n1XtXTelVG5dJhDhy/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/vanadragos/covid-19-romania'
     },
@@ -621,12 +621,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/1brJ0NLbQaJKPTWMO/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/5JO5GL1h8Qv1CnG0m/items?format=json',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/krakorj/covid-russia'
     },
@@ -638,12 +638,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/40xwYCZ57p5OkyBIJ/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/OeaEEGdhvUSkXRrWU/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/katerinahronik/covid-sa'
     },
@@ -655,12 +655,12 @@ const data = [
         latestApi: {
             url:
                 ' https://api.apify.com/v2/key-value-stores/aHENGKUPUhKlX97aL/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/X00EUFYFa9dsIdD8a/items?format=json',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/krakorj/covid-serbia'
     },
@@ -672,12 +672,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/yaPbKe9e5Et61bl7W/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/suHgi59tSfu02VsRO/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/tugkan/covid-sg'
     },
@@ -690,12 +690,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/GlTLAdXAuOz6bLAIO/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/oUWi8ci7F2R9V5ZFy/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/davidrychly/covid-sk-3'
     },
@@ -707,12 +707,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/603AyvQ8QjyqmnZx6/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/H6HKZRQr8I81bClnb/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/dtrungtin/covid-si'
     },
@@ -723,12 +723,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/TMFbhs7qtXpGpeaeP/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/Lc0Hoa8MgAbscJA4w/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/onidivo/covid-kr'
     },
@@ -740,12 +740,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/lluBbYoQVN65R3BGO/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/hxwow9BB75z8RV3JT/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/zuzka/covid-es'
     },
@@ -758,12 +758,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/8mRFdwyukavRNCr42/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/Nq3XwHX262iDwsFJS/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/tugkan/covid-se'
     },
@@ -776,12 +776,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/lDegAca820XgvjE0C/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/73pVXuygDYAtIMOhI/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/dtrungtin/covid-ch'
     },
@@ -793,12 +793,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/28ljlt47S5XEd1qIi/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/LYeOfHQwsv7FsfdGV/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/tugkan/covid-tr'
     },
@@ -811,12 +811,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/KWLojgM5r1JmMW4b4/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/K1mXdufnpvr53AFk6/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/katerinahronik/covid-uk'
     },
@@ -829,12 +829,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/moxA3Q0aZh5LosewB/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/FIbyK6uHUntt2kNy3/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/petrpatek/covid-usa-cdc'
     },
@@ -845,12 +845,12 @@ const data = [
         latestApi: {
             url:
                 'https://api.apify.com/v2/key-value-stores/EaCBL1JNntjR3EakU/records/LATEST?disableRedirect=true',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         historyApi: {
             url:
                 'https://api.apify.com/v2/datasets/RnzK2Aea1RlgBcauw/items?format=json&clean=1',
-            frequency: 'an hour'
+            frequency: 'hour'
         },
         actorPage: '/dtrungtin/covid-vi'
     }
