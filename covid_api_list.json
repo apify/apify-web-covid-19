@@ -122,6 +122,20 @@
         "actorPage": "/lukass/covid-cad"
     },
     {
+        "title": "Chile",
+        "description": "Actor gets the actual number of infected, recovered and deceased people by COVID-19 in Chile.",
+        "dataSource": "https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/",
+        "latestApi": {
+            "url": "https://api.apify.com/v2/key-value-stores/ZDTAFJfflAroBtXtO/records/LATEST",
+            "frequency": "hour"
+        },
+        "historyApi": {
+            "url": "https://api.apify.com/v2/datasets/Dc7asb1F0Ic19PPWg/items?format=json&clean=1",
+            "frequency": "hour"
+        },
+        "actorPage": "/ecno/covid-cl"
+    },
+    {
         "title": "China",
         "description": "Actor gets the actual number of current confirmed, confirmed, suspected, cured and deceased people by COVID-19 in China.",
         "dataSource": "https://www.worldometers.info/coronavirus/",
