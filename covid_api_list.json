@@ -122,20 +122,6 @@
         "actorPage": "/lukass/covid-cad"
     },
     {
-        "title": "Chile",
-        "description": "Actor gets the actual number of infected, recovered and deceased people by COVID-19 in Chile.",
-        "dataSource": "https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/",
-        "latestApi": {
-            "url": "https://api.apify.com/v2/key-value-stores/ZDTAFJfflAroBtXtO/records/LATEST",
-            "frequency": "hour"
-        },
-        "historyApi": {
-            "url": "https://api.apify.com/v2/datasets/Dc7asb1F0Ic19PPWg/items?format=json&clean=1",
-            "frequency": "hour"
-        },
-        "actorPage": "/ecno/covid-cl"
-    },
-    {
         "title": "China",
         "description": "Actor gets the actual number of current confirmed, confirmed, suspected, cured and deceased people by COVID-19 in China.",
         "dataSource": "https://www.worldometers.info/coronavirus/",
@@ -148,20 +134,6 @@
             "frequency": "hour"
         },
         "actorPage": "/katerinahronik/covid-china"
-    },
-    {
-        "title": "Croatia",
-        "description": "Actor gets the actual number of infected, recovered and deceased people by COVID-19 in Croatia.",
-        "dataSource": "https://www.koronavirus.hr/en",
-        "latestApi": {
-            "url": " https://api.apify.com/v2/key-value-stores/ealAQXP81dedhLWay/records/LATEST?disableRedirect=true",
-            "frequency": "hour"
-        },
-        "historyApi": {
-            "url": "https://api.apify.com/v2/datasets/dQxN0GCqxJ1MhgLR4/items?format=json&clean=1",
-            "frequency": "hour"
-        },
-        "actorPage": "/zuzka/covid-hr"
     },
     {
         "title": "Czech Republic",
@@ -190,20 +162,6 @@
             "frequency": "hour"
         },
         "actorPage": "/tugkan/covid-dk"
-    },
-    {
-        "title": "Estonia",
-        "description": "Actor gets the actual number of infected and deceased people.",
-        "dataSource": "https://www.terviseamet.ee/en/covid19",
-        "latestApi": {
-            "url": "https://api.apify.com/v2/key-value-stores/AZUhwS51lBBg26wSG/records/LATEST?disableRedirect=true",
-            "frequency": "hour"
-        },
-        "historyApi": {
-            "url": "https://api.apify.com/v2/datasets/Ix8h3SN2Ngyukf7yM/items?format=json&clean=1",
-            "frequency": "hour"
-        },
-        "actorPage": "/lukass/covid-est"
     },
     {
         "title": "Finland",
@@ -330,20 +288,6 @@
             "frequency": "hour"
         },
         "actorPage": "/lukass/covid-jap"
-    },
-    {
-        "title": "Lithuania",
-        "description": "Gets the actual number of tested/confirmed cases.",
-        "dataSource": "http://sam.lrv.lt/lt/naujienos/koronavirusas",
-        "latestApi": {
-            "url": "https://api.apify.com/v2/key-value-stores/xhGDb8VTqjtm1AQL6/records/LATEST?disableRedirect=true",
-            "frequency": "hour"
-        },
-        "historyApi": {
-            "url": "https://api.apify.com/v2/datasets/1XdITM6u7PbhUrlmK/items?format=json&clean=1",
-            "frequency": "hour"
-        },
-        "actorPage": "/dtrungtin/covid-lt"
     },
     {
         "title": "Luxembourg",
