@@ -623,7 +623,7 @@
             "url": "https://api.apify.com/v2/datasets/K1mXdufnpvr53AFk6/items?format=json&clean=1",
             "frequency": "hour"
         },
-        "actorPage": "/katerinahronik/covid-uk"
+        "actorPage": null
     },
     {
         "title": "United States",
